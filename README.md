@@ -6,4 +6,20 @@ A collection of all Pandas Projects in one place.
 
 ## Fifa Project 
 
+I've been tasked with refining and reformatting a raw CSV file that holds all player data for FIFA 21, as requested by EA. This entails cleansing and restructuring the data to prepare it for upload into an AWS S3 bucket. The objective is to retain specific metrics as outlined by EA, such as height in centimeters, and to filter out players not affiliated with Premier League clubs.
+
+Utilizing Pandas in Juypter Notebook, I was successful in:
+1. Dropping irrelevant or sensitive columns.
+2. Renaming columns.
+3. Filtering for Premier League clubs.
+4. Removing (\n,€,K,cm,") from records in the Club, Value, Wage, and Height columns.
+5. Converting Wage from string with K to floats, i.e., 300k to 300000.
+6. Converting Value from string with K and M to floats, i.e., 300k to 300,000, 3M to 3,000,000.
+7. Converting Height from feet to cm, i.e., 5'9 to 175.
+
+A preview of the final cleaned and transformed table:
+
+![alt text](<1.Fifa_Project\Pandas Table.png>)
+
 ## Cafe Project 
+
