@@ -10,7 +10,7 @@ A collection of all Pandas Projects in one place. All projects are personal proj
 I've been tasked with refining and reformatting a raw CSV file that holds all player data for FIFA 21, as requested by EA. This entails cleansing and restructuring the data to prepare it for upload into an AWS S3 bucket. The objective is to retain specific metrics as outlined by EA, such as height in centimeters, and to filter out players not affiliated with Premier League clubs.
 
 ### Working
-Utilizing Pandas in Juypter Notebook, I was successful in:
+Utilizing Pandas in Jupyter Notebook, I was successful in:
 1. Dropping irrelevant or sensitive columns.
 2. Renaming columns.
 3. Filtering for Premier League clubs.
@@ -31,7 +31,7 @@ I've been assigned a task by a national chain of pop-up cafes to refine and rest
 
 ### Working 
 
-Utilizing Pandas in Juypter Notebook, I was successful in:
+Utilizing Pandas in Jupyter Notebook, I was successful in:
 1. Dropping irrelevant or sensitive columns.
 2. Renaming columns.
 3. Removing duplicate records.
