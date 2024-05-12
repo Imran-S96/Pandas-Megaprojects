@@ -21,8 +21,7 @@ Utilizing Pandas in Juypter Notebook, I was successful in:
 
 ### Table
 A preview of the final cleaned and transformed table:
-
-![alt text](<1.Fifa_Project\Pandas Table.png>)
+![alt text](<1.Fifa_Project/Pandas Table.png>)
 
 ## Cafe Project 
 
