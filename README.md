@@ -42,3 +42,12 @@ Utilizing Pandas in Jupyter Notebook, I was successful in:
 ### Table
 A preview of the final cleaned and transformed table:
 ![alt text](2.Cafe_Project/CafeTable.png)
+
+## Netflix Project
+
+### Background
+
+### Working 
+
+### Table
+A preview of the final cleaned and transformed table:
