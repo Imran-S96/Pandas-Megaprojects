@@ -46,8 +46,15 @@ A preview of the final cleaned and transformed table:
 ## Netflix Project
 
 ### Background
+I've received a CSV file from Netflix containing a comprehensive list of Movies and TV shows available on the platform. Netflix has tasked me with filtering out only the movies available in the United States and preparing the CSV file by cleaning and transforming it, ensuring it's ready for loading into an S3 Bucket.
 
 ### Working 
+Utilizing Pandas in Jupyter Notebook, I was successful in:
+1. Filter for Movies from the United States 
+2. Change Datetime format 
+3. Splitting cast and listed_in and seperating them into seperate rows 
+4. Rename Columns 
 
 ### Table
 A preview of the final cleaned and transformed table:
+![alt text](<3.Netflix_Project/Netflix Table.png>)
