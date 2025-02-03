@@ -1,0 +1,12 @@
+ID,Product_Name,Price,Quantity,Category
+1,apple, $1.20 ,10,Fruit
+2,Banana ,$0.50, 5,Fruit
+3,oranges,$2.00 , ,Fruit
+4,Milk, $3,2,Dairy
+5, bread ,$ 2.5 , 4,Bakery
+6,Eggs , ,12,Dairy
+7,Cheese,$5.00,1,Dairy
+8, Chicken breast,$7.5, ,Meat
+9, Rice,$1.80,8,Grain
+10, pasta,$1.50 ,6,Grain
+

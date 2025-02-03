@@ -1,0 +1,11 @@
+ID,Product_Name,Price,Quantity,Category
+1,Apple,1.2,10,Fruit
+2,Banana,0.5,5,Fruit
+3,Oranges,2.0,0,Fruit
+4,Milk,3.0,2,Dairy
+5,Bread,2.5,4,Bakery
+6,Eggs,,12,Dairy
+7,Cheese,5.0,1,Dairy
+8,Chicken Breast,7.5,0,Meat
+9,Rice,1.8,8,Grain
+10,Pasta,1.5,6,Grain
